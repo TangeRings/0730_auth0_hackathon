@@ -1,0 +1,6 @@
+{
+  "name": "BlueQ Project Layer",
+  "description": "AI-powered project-based learning layer for online courses, university programs, and professional education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
